@@ -8,6 +8,8 @@
 - Day 6: 7/10
 - Day 7: 7/10
 - Day 8: 5/10
+- Day 9: 7/10
+- Day 10: 8/10
 
 ## Day 1
 
@@ -50,3 +52,11 @@ Tried scratch, gave up.
 ## Day 8
 
 Reading comprehension issues
+
+## Day 9
+
+Just a skill issue: 7/10
+
+## Day 10
+
+8/10
